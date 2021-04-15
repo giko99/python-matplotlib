@@ -1,0 +1,8 @@
+cara install :
+
+pakai virtual env :
+python3 -m venv Env
+source Env/bin/activate
+
+pip install numpy
+pip install matplotlib
